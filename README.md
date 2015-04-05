@@ -2,7 +2,7 @@
 
 > *We have all been stuck in airports longer than planned because of the inconvenience of flight delays. What if we could avoid this by using flight data?*
 
-D3 code for the interactive visualization.
+D3 code and data used to produce the interactive visualization.
 
 ---
 
