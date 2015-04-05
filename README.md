@@ -4,4 +4,4 @@
 
 **Read more at: http://tuftsenigma.org/airport-flight-delays/**
 
-![Alt text] (https://avatars3.githubusercontent.com/u/11640582?v=3&s=200)
+![Alt text] (https://avatars3.githubusercontent.com/u/11640582?v=3&s=200 "Tufts Enigma")
