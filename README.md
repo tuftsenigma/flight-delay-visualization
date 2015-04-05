@@ -1,7 +1,5 @@
-# Visualizing Flight Delays
+# Visualizing Flight Delays ![Alt text] (https://avatars3.githubusercontent.com/u/11640582?v=3&s=200)
 
 *We have all been stuck in airports longer than planned because of the inconvenience of flight delays. What if we could avoid this by using flight data?*
-
-![Alt text] (https://avatars3.githubusercontent.com/u/11640582?v=3&s=200)
 
 **Read more at: http://tuftsenigma.org/airport-flight-delays/**
